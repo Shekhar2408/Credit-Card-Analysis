@@ -175,6 +175,7 @@ Week_over_week_revenue = DIVIDE(([Current_Week_Revenue] - [Previoust_Week_Revenu
 - Step 14 : Lastly slicer added enabling to filter the data on the basis of week start date.
 
 
+
 --[Similary for the second dashboard about cust_detail]
 - Step 15 : Keeping the same bakground add another page to report view and start visualising data.
 - Step 16 : The main theme for this dashboard is to design and interpret all the visuals according to the gender basis.
