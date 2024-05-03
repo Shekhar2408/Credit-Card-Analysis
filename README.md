@@ -174,7 +174,7 @@ Week_over_week_revenue = DIVIDE(([Current_Week_Revenue] - [Previoust_Week_Revenu
   
 - Step 14 : Lastly slicer added enabling to filter the data on the basis of week start date.
 
-
+![dashboard 1](https://github.com/Shekhar2408/Credit-Card-Analysis/assets/167020556/e872e6fc-df05-4a92-a9e5-40c492658bf8)
 
 --[Similary for the second dashboard about cust_detail]
 - Step 15 : Keeping the same bakground add another page to report view and start visualising data.
