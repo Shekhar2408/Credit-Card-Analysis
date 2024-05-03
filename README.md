@@ -3,12 +3,6 @@
 ### Dashboard Link : https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection
 
 ## Problem Statement
-
-# Airlines-Dashboard
-
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection
-
-## Problem Statement
 To develop a comprehensive credit card weekly dashboard that
 provides real-time insights into key performance metrics and trends,enabling stakeholders to monitor and analyze credit card operations effectively.
 This dashboard helps to understand the customers better. It helps the Credit Card Comapny know if their customers are satisfied with their services. Through different ratings, they get to know their improvement area, & thus they can improve their services by identifying these area. It also lets them know the average transaction amount and transaction count, thus since by using this dashboard they have identified this problem, they can further work on factors responsible for these unwanted disruptions.
