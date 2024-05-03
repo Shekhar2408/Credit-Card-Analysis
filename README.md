@@ -180,7 +180,10 @@ Week_over_week_revenue = DIVIDE(([Current_Week_Revenue] - [Previoust_Week_Revenu
 - Step 15 : Keeping the same bakground add another page to report view and start visualising data.
 - Step 16 : The main theme for this dashboard is to design and interpret all the visuals according to the gender basis.
 - Step 17 : For data visualization line chart was taken representing Revenue by Week based upon gender.
-- Step 18 : Line chart was inserted to represent the revenue by each state and conditional filtering was done to show only the top 5 states usinf the filters section.
+
+  [Snap 1]![Revenue 2](https://github.com/Shekhar2408/Credit-Card-Analysis/assets/167020556/01119d66-8c17-4b69-87b0-cfe5da94eecb)
+  
+- Step 18 : Line chart was inserted to represent the revenue by each state and conditional filtering was done to show only the top 5 states using the filters section.
 - Step 19 : Stacked bar chart was taken to show the data Revenue Vs Marital Status.
 - Step 20 : A ribbon chart and two stacked bar charts added to the canvas to depict relations between Revenue Vs Income Group, Dependent Count and Education Level.
 - Step 21 : Another stacked bar chart for revnue by age group as added to the report view.
