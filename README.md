@@ -207,12 +207,22 @@ Week_over_week_revenue = DIVIDE(([Current_Week_Revenue] - [Previoust_Week_Revenu
 ### Key insights
 
 Overview YTD:
-• Overall revenue is 57M
-• Total interest is 8M
-• Total transaction amount is 46M
-• Male customers are contributing more in revenue 31M, female 26M
-• Blue & Silver credit card are contributing to 93% of overall
+  (a) Overall revenue is 57M
+
+  (b) Total interest is 8M
+  
+  (c) Total transaction amount is 46M
+  
+  (d) Male customers are contributing more in revenue 31M, female 26M
+
+  (e) Blue & Silver credit card are contributing to 93% of overall
 transactions
-• TX, NY & CA is contributing to 68%
-• Overall Activation rate is 57.5%
-• Overall Delinquent rate is 6.06%
+  
+  (d) TX, NY & CA is contributing to 68%
+
+  (e) Overall Activation rate is 57.5%
+  
+  (d) Overall Delinquent rate is 6.06%
+
+
+
