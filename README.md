@@ -5,7 +5,7 @@
 
 
 ## Problem Statement
-To develop a comprehensive Credit Card Weekly Dashboard that provides real-time insights to key performanse metrics and trends enabling stakeholders to monitor and analyze credit card operations effectively.
+To develop a comprehensive Credit Card Weekly Dashboard that provides real-time insights to key performance metrics and trends enabling stakeholders to monitor and analyze credit card operations effectively.
 
 ## Methodology
 1) Data collection: Utilize publicly available open data source for the different kind of credit cards usage.
