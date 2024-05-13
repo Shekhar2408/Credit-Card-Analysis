@@ -16,33 +16,40 @@ To develop a comprehensive Credit Card Weekly Dashboard that provides real-time 
 
 ## Related DAX Queries 
 1) Current Week Revenue
+   
         Current_Week_Revenue = CALCULATE(
             sum('ccdb cc_detail'[Revenue]),
             filter(
                 all('ccdb cc_detail'),
                 'ccdb cc_detail'[Week_num2] = max('ccdb cc_detail'[Week_num2])))
 
-2) Previous Week Revenue
+3) Previous Week Revenue
+   
         Previoust_Week_Revenue = CALCULATE(
             sum('ccdb cc_detail'[Revenue]),
             filter(
                 all('ccdb cc_detail'),
                 'ccdb cc_detail'[Week_num2] = max('ccdb cc_detail'[Week_num2])-1))
 
-3) Total Revenue
+5) Total Revenue
+   
            Revenue = 'ccdb cc_detail'[Annual_Fees] + 'ccdb cc_detail'[Total_Trans_Amt] + 'ccdb cc_detail'[Interest_Earned]
 
-4) Week Description 
+7) Week Description
+   
            Week_num2 = WEEKNUM('ccdb cc_detail'[Week_Start_Date].[Date] )
 
-5) Week Over Week Revenue
+9) Week Over Week Revenue
+    
            Week_over_week_revenue = DIVIDE(([Current_Week_Revenue] - [Previoust_Week_Revenue]),[Previoust_Week_Revenue])
 
-6) Age Group
+11) Age Group
+    
            Week_over_week_revenue = DIVIDE(([Current_Week_Revenue] - [Previoust_Week_Revenue]),[Previoust_Week_Revenue])
 
-7) Income Group
-   Income Group = SWITCH(
+13) Income Group
+    
+           Income Group = SWITCH(
          TRUE(),
          'ccdb cust_detail'[Income] < 35000, "Low",
          'ccdb cust_detail'[Income] >= 35000 && 'ccdb cust_detail'[Income] < 70000, "Med",
