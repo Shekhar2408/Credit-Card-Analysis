@@ -1,7 +1,7 @@
 
 # Credit Card and Customer Usage Analysis 
 
-### Dashboard Link :[https://app.powerbi.com/groups/me/reports/76decb57-0827-40db-b3c5-61867e6cf551/ReportSection?experience=power-bi]
+### Dashboard Link :[https://app.powerbi.com/groups/32ceb88c-466b-4f10-8125-abdb2877f749/reports/ca743fb6-c72d-4e29-97c1-e506c5474083/ReportSection0acb0ebe544604966858?experience=power-bi]
 
 
 ## Problem Statement
